@@ -19,6 +19,8 @@ let state;
 // null => standalone value (object as typeof)
 // undefined =>
 // symbol => unique
+
+// object
       
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
